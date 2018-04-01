@@ -1,0 +1,11 @@
+1_6 jaundice_Liveattenuatedpolio_InactivatedPolio_Diphtheria_tetanus
+1 whoopingcough_measles
+2 flu_mumps
+3 rubella_flu_mumps
+4 whoopingcough_Liveattenuatedpolio
+5 mumps_Papillomavirus
+6 InactivatedPolio_measles
+7_8 Diphtheria_measles_InfectionsFnoimokokim
+9_10 rubella_Ruta_flu
+11_12 Papillomavirus
+13 Meningococcalinfection_Papillomavirus

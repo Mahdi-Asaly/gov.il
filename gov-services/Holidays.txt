@@ -1,0 +1,16 @@
+Jewish_religion Purim 12/03/2017
+Jewish_religion Passover 9-17/04/2017
+Christian_religion Passover 9-17/04/2017
+Jewish_religion Memorial_Day 01/5/2017 
+Jewish_religion Independence_Day 02/05/2107
+Jewish_religion Weeks 30-31/05/2017
+Islamic_religion Fitr_holiday 1-4/07/2017
+Jewish_religion Si_recess_Nab 01/08/2017
+Islamic_religion Adha_holiday 3-7/09/2017
+Jewish_religion Jewish_new_year 20-22/09/2017
+Jewish_religion Kippur 29/09/2017
+Jewish_religion Sukkot 4-12/10/2017
+Islamic_religion Islamic_new_year 12/11/2017
+Christian_religion Christmas 24/12/2017
+Jewish_religion inauguration 24/12/2017
+Christian_religion Christian_new_year 31/12/2017

@@ -1,0 +1,37 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Team10Edited.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Customer.c
+c:\users\user\desktop\team10-master\gov-services\customer.c(55): warning C4129: '>': unrecognized character escape sequence
+  LogIn_.c
+c:\users\user\desktop\team10-master\gov-services\login_.c(66): warning C4101: 'test_end_real_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(66): warning C4101: 'test_end_proc_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(67): warning C4101: 'test_end_real_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(67): warning C4101: 'test_end_proc_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(68): warning C4101: 'test_end_real_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(68): warning C4101: 'test_end_proc_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(70): warning C4101: 'test_end_real_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(70): warning C4101: 'test_end_proc_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(78): warning C4101: 'test_end_real_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(78): warning C4101: 'test_end_proc_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(86): warning C4101: 'test_end_real_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(86): warning C4101: 'test_end_proc_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(136): warning C4101: 'test_end_real_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(136): warning C4101: 'test_end_proc_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(137): warning C4101: 'test_end_real_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(137): warning C4101: 'test_end_proc_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(138): warning C4101: 'test_end_real_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(138): warning C4101: 'test_end_proc_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(139): warning C4101: 'test_end_real_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(139): warning C4101: 'test_end_proc_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(140): warning C4101: 'test_end_real_timer': unreferenced local variable
+c:\users\user\desktop\team10-master\gov-services\login_.c(140): warning C4101: 'test_end_proc_timer': unreferenced local variable
+  Main.c
+  Manager.c
+c:\users\user\desktop\team10-master\gov-services\manager.c(719): warning C4477: 'fscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int (*)[11]'
+c:\users\user\desktop\team10-master\gov-services\manager.c(741): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+c:\users\user\desktop\team10-master\gov-services\manager.c(787): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char (*)[10]'
+  c:\users\user\desktop\team10-master\gov-services\manager.c(787): note: consider using '%hhd' in the format string
+c:\users\user\desktop\team10-master\gov-services\manager.c(817): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+  Worker.c
+c:\users\user\desktop\team10-master\gov-services\worker.c(449): warning C4013: 'gets' undefined; assuming extern returning int
+  Generating Code...
+  Team10Edited.vcxproj -> C:\Users\USER\Desktop\Team10-master\gov-services\Debug\gov-services.exe
